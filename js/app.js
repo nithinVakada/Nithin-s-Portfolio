@@ -8,7 +8,7 @@ $('.slider').slick({
 
 
 
-let mobileNav = document.querySelector('.mobile-nav');
+
 
 
 
